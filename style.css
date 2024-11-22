@@ -2,16 +2,16 @@
   font-family: 'Porsche';
   font-display: swap;
   src: local(Porsche),
-       url(font/Porsche\ Regular_0.ttf),
-       url(font/Porsche\ Regular_0.woff);
+       url(project/font/Porsche\ Regular_0.ttf),
+       url(project/font/Porsche\ Regular_0.woff);
  }
 
  * {
   font-family: 'Porsche';
   font-display: swap;
   src: local(Porsche),
-       url(font/Porsche\ Regular_0.ttf),
-       url(font/Porsche\ Regular_0.woff);
+       url(project/font/Porsche\ Regular_0.ttf),
+       url(project/font/Porsche\ Regular_0.woff);
   margin: 0;
   padding: 0;
   color: #fff;
@@ -77,7 +77,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background-image: url(img/Rectangle\ 10.png);
+  background-image: url(project/img/Rectangle\ 10.png);
   background-repeat:no-repeat;
   background-position: center 20%;
   background-size: cover;
